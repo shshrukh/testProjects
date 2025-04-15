@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form input {
+    padding: 10px  150px;
+}
+.container {
+    /* width: 60%; */
+    text-align: center;
+}
+form button{
+    padding: 10px 20px;
+}
